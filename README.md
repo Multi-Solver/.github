@@ -196,3 +196,11 @@ fetch(base_url + "/iconcaptcha", {
   body: JSON.stringify(body),
 });
 ```
+#
+#### 🤖Result
+```javascript
+const base_url = "https://multisolver-api.vercel.app/v1/captcha";
+fetch(base_url + "/result?taskId=" + "turnstile-12345", {
+  headers: { Authorization: "Bearer KEY_HERE" },
+});
+```
