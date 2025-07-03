@@ -11,6 +11,7 @@ A service that solves multiple captchas
   - [**Icon UP/DOWN**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#iconupdown)
   - [**IconCaptcha**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#iconcaptcha)
   - [**GET RESULT**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#result)
+  - [**GET Balance**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#get-balance)
 
 ## Documentation
 
@@ -34,7 +35,6 @@ https://multisolver-api.vercel.app
 ```http
 Authorization: Bearer YOUR_KEY_HERE
 ```
-
 #### Endpoints
 #
 ```http
@@ -213,3 +213,12 @@ fetch(base_url + "/result?taskId=" + "turnstile-12345", {
   headers: { Authorization: "Bearer KEY_HERE" },
 });
 ```
+#
+#### 💰Get Balance
+```javascript
+const base_url = "https://multisolver-api.vercel.app/v1/";
+fetch(base_url + "/balance", {
+  headers: { Authorization: "Bearer KEY_HERE" },
+});
+```
+
