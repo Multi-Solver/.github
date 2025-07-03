@@ -3,14 +3,14 @@
 A service that solves multiple captchas
 
 # Table of Contents
-+ [**Examples**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#examples)
-  - [**Turnstile**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#turnstile)
-  - [**Hcaptcha (IMG)**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#hcaptcha-img)
-  - [**Recaptcha (IMG)**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#recaptcha-img)
-  - [**Recaptcha (TOKEN)**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#recaptcha-token)
-  - [**Icon UP/DOWN**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#iconupdown)
-  - [**IconCaptcha**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#iconcaptcha)
-  - [**GET RESULT**](https://github.com/Multi-Solver/documentation?tab=readme-ov-file#result)
++ [**Examples**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#examples)
+  - [**Turnstile**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#turnstile)
+  - [**Hcaptcha (IMG)**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#hcaptcha-img)
+  - [**Recaptcha (IMG)**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#recaptcha-img)
+  - [**Recaptcha (TOKEN)**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#recaptcha-token)
+  - [**Icon UP/DOWN**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#iconupdown)
+  - [**IconCaptcha**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#iconcaptcha)
+  - [**GET RESULT**](https://github.com/Multi-Solver/docs?tab=readme-ov-file#result)
 
 ## Documentation
 
