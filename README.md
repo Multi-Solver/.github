@@ -10,6 +10,8 @@ A service that solves multiple captchas
   - [**Recaptcha (TOKEN)**](https://github.com/Multi-Solver/Multi-Solver?tab=readme-ov-file#recaptcha-token)
   - [**Icon UP/DOWN**](https://github.com/Multi-Solver/Multi-Solver?tab=readme-ov-file#iconupdown)
   - [**IconCaptcha**](https://github.com/Multi-Solver/Multi-Solver?tab=readme-ov-file#iconcaptcha)
+  - [**GET RESULT**](https://github.com/Multi-Solver/Multi-Solver?tab=readme-ov-file#result)
+
 ## Documentation
 
 #### Supported captchas
